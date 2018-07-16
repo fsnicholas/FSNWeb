@@ -22,14 +22,14 @@ weight = 5
   year = 1989
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Electrical Engineering"
+  institution = "Adelaide University"
+  year = 1973
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Physics"
+  institution = "Flinders University"
+  year = 1970
  
 +++
 
@@ -37,4 +37,3 @@ weight = 5
 
 Frank Nicholas works as an IT Architect. His research interests include big data, mobile computing and programmable matter. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 

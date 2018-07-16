@@ -6,7 +6,7 @@
     <description>Recent content in Homes on FSN Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Frank Nicholas 2018</copyright>
+    <copyright>&amp;copy; Frank Nicgolas 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +1030</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
@@ -28,8 +28,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0930</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Frank Nicholas works as an IT Architect. His research interests include big data, mobile computing and programmable matter.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
+      <description>Biography Frank Nicholas works as an IT Architect. His research interests include big data, mobile computing and programmable matter.</description>
     </item>
     
     <item>
