@@ -23,7 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+##image = "headers/bubbles-wide.jpg"
+image = "header.jpg"
 caption = "My caption :smile:"
 
 +++
