@@ -10,7 +10,7 @@ title = "FSN Website"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Frank Nicgolas 2018"
+copyright = "&copy; Frank Nicholas 2018"
 
 
 theme = "hugo-academic"
@@ -192,7 +192,7 @@ enableGitInfo = false
   [params.publications]
     # Date format (refer to Go's date format: http://fuckinggodateformat.com )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "January, 2006"
+    date_format = "January 2, 2006"
 
   # Configuration of project pages.
   [params.projects]
@@ -224,15 +224,16 @@ enableGitInfo = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
+# fonts from
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:frank.nicholas@outlook.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/fsnicholas"
 
   [[params.social]]
     icon = "google-scholar"
@@ -242,7 +243,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/fsnicholas"
+
+  [[params.social]]
+    icon = "facebook-f"
+    icon_pack = "fa"
+    link = "//facebook.com/frank.nicholas"
 
 
 # Navigation Links
